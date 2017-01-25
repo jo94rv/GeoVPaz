@@ -1,0 +1,141 @@
+body {
+    background: #FAFAFA;
+    font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+.navbar {
+    background-color:#001e35;
+    border-radius: 0px;
+    margin-bottom: 0px;
+    min-height: 74px;
+}
+
+.minavbar .navbar-right {
+    margin-top: 10px;
+}
+
+#texto {
+    text-align: justify;
+    font-size: 12pt;
+    text-indent: 2.5em;
+}
+
+#imagen{
+    margin-bottom: 15px;
+}
+paper-material {
+    padding: 5px;
+    margin: 8px 8px 8px 8px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+paper-material h1 {
+    text-align: left;
+}
+
+#titulo {
+    font-size: 14pt;
+
+}
+
+#imagen{
+    border: 2px solid #333;
+    border-radius: 4px;
+    margin-bottom: 14px;
+}
+
+.minavbar .navbar-right li a {
+    color: aliceblue !important;
+    text-transform: uppercase;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.minavbar .navbar-right li a:hover {
+    color: cyan !important;
+    background-color: #607D8B;
+    -moz-opacity: 1;
+    -o-opacity: 1;
+    opacity: 1;
+}
+
+@media screen and (max-width: 728px) {
+    .minavbar .brand-logo{
+        margin: 10px auto;
+    }
+    .minavbar .navbar-header button{
+        margin-top: 16px !important;
+        margin-bottom: 0px !important;
+    }
+    .minavbar .navbar-collapse{
+        margin-top: 22px !important;
+    }
+}
+
+.footer {
+	background-color: #272D34;
+	color: white;
+	padding-top: 24px;
+	padding-bottom: 24px;
+	margin-top: 40px;
+}
+
+.footer .title {
+	font-size: 1.6em;
+}
+
+.footer p {
+	font-size: 0.7em;
+	margin-top: 8px;
+	color: #777;
+}
+
+.footer ul {
+	margin-left: 0px;
+}
+
+.footer ul li a {
+	color: #999;
+	padding: 2px;
+}
+
+.copyright {
+	background-color: #1a1e23;
+	color: #777;
+	padding: 8px;
+}
+
+.copyright ul {
+	display: inline-block;
+	float: right;
+	list-style: none;
+	margin: 0px;
+}
+
+.copyright ul li {
+	float: left;
+	margin-right: 16px;
+	margin-bottom: 0;
+}
+
+.copyright ul li a{ 
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

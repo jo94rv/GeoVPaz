@@ -1,0 +1,15 @@
+/* Equipo */
+	Desarrollado por: 
+		Natalia A. Pérez
+		E-Mail: perezalbornozn@uvm.edu.ve
+		Valera, Venezuela
+		
+		Jesús O. Ramírez V.
+		E-mail: jo94rv@gmail.com
+		Valera, Venezuela
+
+	Tutor:
+		Hellyss Mendoza
+
+
+	
